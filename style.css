@@ -15,6 +15,11 @@ body {
   transform: translate(-50%);
 }
 
+a, a:hover, a:active {
+  color: white;
+  text-decoration: none;
+}
+
 [class*=btn-glitch-] {
   display: inline-block;
   font-family: "VT323", monospace;
